@@ -1,0 +1,39 @@
+{
+    "profiles": [
+        {
+            "name": "default",
+            "detail": "Hides huge, annoying folders",
+            "hidden": [
+                ".vscode/",
+                ".build/",
+                ".dart_tool/",
+                ".idea/",
+                "client/.build/",
+                "client/.dart_tool/",
+                "client/.idea/",
+                "client/.backend/",
+                "client/.build/",
+                "client/.flutter-plugins/",
+                "client/.flutter-plugins-dependencies/",
+                "client/auth.iml",
+                "client/.metadata/",
+                "client/.packages/",
+                "client/pubspec.lock",
+                "server/.build/",
+                "server/.dart_tool/",
+                "server/.idea/",
+                "server/.backend/",
+                "server/.build/",
+                "server/.flutter-plugins/",
+                "server/.flutter-plugins-dependencies/",
+                "server/auth.iml",
+                "server/.metadata/",
+                "server/.packages/",
+                "server/android/",
+                "server/ios/",
+                "server/web/",
+                "server/pubspec.lock"
+            ]
+        }
+    ]
+}
